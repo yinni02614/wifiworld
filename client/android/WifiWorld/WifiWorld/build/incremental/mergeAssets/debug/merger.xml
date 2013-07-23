@@ -2,10 +2,10 @@
 <merger>
 
     <dataSet config="main" >
-        <source path="E:\dev\github\wifi\client\android\WifiWorld\WifiWorld\src\main\assets" />
+        <source path="E:\dev\github\wifiworld-branch-peigong\client\android\WifiWorld\WifiWorld\src\main\assets" />
     </dataSet>
     <dataSet config="debug" >
-        <source path="E:\dev\github\wifi\client\android\WifiWorld\WifiWorld\src\debug\assets" />
+        <source path="E:\dev\github\wifiworld-branch-peigong\client\android\WifiWorld\WifiWorld\src\debug\assets" />
     </dataSet>
 
 </merger>
